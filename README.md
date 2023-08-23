@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pedro.p.patriota@gmail.com**
 
-- 📄 Know about my experiences:
+- 📄 **Know about my experiences:**
 I'm a Frontend engineer with seven years of experience, I have a strong background in working with ReactJS andits related technologies. Throughout my career, I have worked with various companies and industries, including digital marketing,automobile tracking, e-commerce, TV broadcasting, fintech, and several SaaS.](I'm a Frontend engineer with seven years of experience, I have a strong background in working with ReactJS andits related technologies. Throughout my career, I have worked with various companies and industries, including digital marketing,automobile tracking, e-commerce, TV broadcasting, fintech, and several SaaS.
 
 - ⚡ Fun fact **I'm addicted on steaming shows**
